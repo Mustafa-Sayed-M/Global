@@ -1,0 +1,92 @@
+[
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/panoramic-view-beautiful-city-istanbul-sea-flying-seagull-turkey_628469-161.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-vector/buildings-skyline-with-australia-flag_24908-59057.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/night-coastal-city_23-2148139583.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Male",
+        "country": "Maldives",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/group-colombian-male-friends-spending-time-together-having-fun_23-2151356420.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/travel-scene-with-pastel-colors-dreamy-atmosphere_23-2151450630.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "New York",
+        "country": "US",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-vector/new-york-city_24908-55428.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/tower-bridge-sunrise-london_268835-1391.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/cityscape-anime-inspired-urban-area_23-2151028703.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "services": [
+            "Flights",
+            "Hotels",
+            "Resorts"
+        ],
+        "imageUrl": "https://img.freepik.com/free-photo/view-dubai-marina-sunrise-uae_268835-1056.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740"
+    }
+]

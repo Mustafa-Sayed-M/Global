@@ -1,0 +1,102 @@
+[
+    {
+        "title": "A real sense of community, nurtured",
+        "description": "Really appreciate the help and support from the staff during these tough times. Shoutout to Katie for...",
+        "rating": 5,
+        "reviewerName": "Olga",
+        "reviewerPosition": "Weave Studios – Kai Tak",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/man-standing-cliff-overlooking-azure-ocean-vibrant-green-sky_1258-296332.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Feels like home",
+        "description": "The environment is warm and welcoming. The staff go above and beyond to make you feel at home.",
+        "rating": 4,
+        "reviewerName": "James",
+        "reviewerPosition": "Weave Studios – Kennedy Town",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/girl-hat-looks-waterfall-happy-young-woman-traveling_169016-63383.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Great location and vibe",
+        "description": "Loved the community events and the convenient access to everything around the area.",
+        "rating": 5,
+        "reviewerName": "Sophia",
+        "reviewerPosition": "Weave Studios – Prince Edward",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/lake-o-hara-yoho-national-park-with-waterfront-carbin_649448-2559.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Friendly and helpful staff",
+        "description": "The staff are always available to help with any issue. Really made the moving-in process smooth.",
+        "rating": 5,
+        "reviewerName": "Michael",
+        "reviewerPosition": "Weave Studios – Central",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/czarny-staw-tatry_1204-486.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Clean and modern rooms",
+        "description": "The rooms are always clean and the facilities are very modern and well-maintained.",
+        "rating": 4,
+        "reviewerName": "Emily",
+        "reviewerPosition": "Weave Studios – Mong Kok",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/countryside-with-wide-field-cereals-ai-generated-image_587448-1390.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Amazing experience",
+        "description": "I had an amazing stay. The team here really cares about the residents.",
+        "rating": 5,
+        "reviewerName": "Daniel",
+        "reviewerPosition": "Weave Studios – Kowloon City",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/two-individuals-carrying-backpacks-standing-hill-gazing-lake_1258-296137.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Perfect for young professionals",
+        "description": "Everything you need is here, especially for someone new to the city.",
+        "rating": 5,
+        "reviewerName": "Chloe",
+        "reviewerPosition": "Weave Studios – Causeway Bay",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/couple-is-holding-hands-top-mountain_651396-3477.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Great atmosphere",
+        "description": "The shared spaces are fantastic for meeting people and relaxing after work.",
+        "rating": 4,
+        "reviewerName": "Liam",
+        "reviewerPosition": "Weave Studios – Wan Chai",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/couple-taking-photos-nature_23-2148927958.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Convenient and comfortable",
+        "description": "Loved the combination of privacy and community. Super convenient location too!",
+        "rating": 5,
+        "reviewerName": "Ava",
+        "reviewerPosition": "Weave Studios – Jordan",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/group-young-asian-women-standing-bamboo-bridge-are-looking-beautiful-nature-while-camping-forest-with-happiness-together_1150-61577.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    },
+    {
+        "title": "Exceptional service",
+        "description": "The team is always friendly and professional. Highly recommend staying here.",
+        "rating": 5,
+        "reviewerName": "Ethan",
+        "reviewerPosition": "Weave Studios – Tsim Sha Tsui",
+        "platform": "Google",
+        "imageUrl": "https://img.freepik.com/free-photo/portrait-asian-traveler-man-glasses-pork-steak-frying-bbq-roasting-skillet-pan-pot-campsite-outdoor-cooking-traveling-camping-lifestyle-concept_1150-61637.jpg?uid=R138128925&ga=GA1.1.1165921773.1749749829&semt=ais_hybrid&w=740",
+        "platformLogo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+    }
+]
